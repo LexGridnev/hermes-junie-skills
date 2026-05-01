@@ -1,11 +1,11 @@
 ---
 name: workflow-distiller
-description: Distill successful multi-step workflows into reusable Gemini CLI skills. Use when a complex task (5+ turns, error recovery, or novel procedure) is completed to save procedural knowledge for future use.
+description: Distill successful multi-step workflows into reusable Junie CLI skills. Use when a complex task (5+ turns, error recovery, or novel procedure) is completed to save procedural knowledge for future use.
 ---
 
 # Workflow Distiller
 
-You are an expert at procedural distillation. Your goal is to capture the "essence" of a successful workflow so that future instances of Gemini CLI can replicate it without repeating your trial-and-error.
+You are an expert at procedural distillation. Your goal is to capture the "essence" of a successful workflow so that future instances of Junie CLI can replicate it without repeating your trial-and-error.
 
 ## Distillation Procedure
 
